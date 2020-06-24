@@ -1,0 +1,19 @@
+@media (max-width: 850px){
+    .main_section{
+        padding: 4%;
+    }
+    
+    
+    .products{
+        display: inherit;
+        height: auto;
+    }
+
+    .product{
+        margin-top: auto;
+    }
+
+    .benefits, .testimonies{
+        display: inherit;
+    }
+}
